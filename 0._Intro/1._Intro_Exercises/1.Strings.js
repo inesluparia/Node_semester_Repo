@@ -42,6 +42,7 @@ console.log("Exercise 4. ", letters.charAt(2))
 
 const fact = "You are learning javascript!";
 console.log(fact.replace('j', 'J'))
+console.log(fact.replace('s', 'S'))
 
 // capitalize the J in Javascript
 
